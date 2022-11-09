@@ -1,5 +1,3 @@
-# Sync MacOs Calendar with an iPod classic.
-
 ## Why i wanted this
 
 I use my Calendar daily and i love listening to music on my iPod. But when i got it i quickly found out you can't sync the calendar anymore so i searched for a solution but couldn't find any, so when i figured out how to achieve it, i oughte share it here with you!
